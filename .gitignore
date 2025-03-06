@@ -4,6 +4,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 java-adv2.iml
+inflearn-java-advanced2.iml
 
 ### Eclipse ###
 .apt_generated
@@ -29,3 +30,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/temp
